@@ -1,5 +1,3 @@
-# JavaTraining
+# Java Training
 
-Java 11 - Código para estudo.
-
-Vários Exercícios! :-)
+Estudo de Java 11 :-)
