@@ -28,7 +28,7 @@ public class EncriptaDecriptaDES
             cifraDES.init(Cipher.ENCRYPT_MODE, chaveDES);
 
             // Texto puro
-            byte[] textoPuro = "Xunda Aquele que Comeu sua Bunda".getBytes();
+            byte[] textoPuro = "SenhaDoUsuario".getBytes();
 
             System.out.println("Texto [Formato de Byte] : " + textoPuro);
             System.out.println("Texto Puro : " + new String(textoPuro));
