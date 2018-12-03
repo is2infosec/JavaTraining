@@ -1,3 +1,3 @@
 # Java Training
 
-Estudo para atualizar os conhecimentos em Java.
+Códigos usados para estudar Java.
