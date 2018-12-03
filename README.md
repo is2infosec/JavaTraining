@@ -1,3 +1,3 @@
 # Java Training
 
-Estudo de Java 11 :-)
+Estudo para atualizar os conhecimentos em Java.
